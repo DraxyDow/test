@@ -1,3 +1,2 @@
-# test
-Tests divers...
-Voici une mini update
+# Divers
+Ce repo me sert pour effectuer des tests en tout genre !
